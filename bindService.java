@@ -4,6 +4,10 @@ public class LocalService extends Service {
     // Random number generator
     private final Random mGenerator = new Random();
 
+
+
+
+    
     /**
      * Class used for the client Binder.  Because we know this service always
      * runs in the same process as its clients, we don't need to deal with IPC.
